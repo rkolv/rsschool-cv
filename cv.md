@@ -21,5 +21,10 @@ It would be nice to have a job I can be comfortable with. For me, this kind of j
 *HTML&CSS on MDN learning area https://developer.mozilla.org/en-US/docs/Learn (in progress)
 *RS School course «JavaScript/Front-end. Stage 0» (in progress)
 
+###Languages:
+*Russian – Native
+*English – Upper-intermediate (B2)
+*German - Basics
+
 
 
