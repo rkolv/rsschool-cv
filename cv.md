@@ -22,14 +22,12 @@ Now I work as a layout designer for advertising letters, and I actively continue
 * Russian - Native
 
 ### Code example:
-'''
- try:
-    for root,dirs, files in os.walk(path_dir):
-      for file in files:
-        if file.endswith('.xlsx'):
-          workbook = load_workbook(file)
-          replace_text_in_excel(workbook, to_find, replace)
-          workbook.save(path_dir)
- except FileNotFoundError as e:
-    print(f"Error: Could not open the Excel file. {e}")
-'''
+> try:
+>    for root,dirs, files in os.walk(path_dir):
+>      for file in files:
+>        if file.endswith('.xlsx'):
+>          workbook = load_workbook(file)
+>          replace_text_in_excel(workbook, to_find, replace)
+>          workbook.save(path_dir)
+> except FileNotFoundError as e:
+>    print(f"Error: Could not open the Excel file. {e}")
