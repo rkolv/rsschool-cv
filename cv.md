@@ -16,18 +16,10 @@ Now I work as a layout designer for advertising letters, and I actively continue
 * Python3 (pandas, scikit learn)
 * Figma, Photoshop
 
+### Work experience
+* **Layout designer** - *ITechno* Feb. 2024 - now
+
 ### Languages:
 * English - Uppen intermediate (B2)
 * German - Basics (A1)
 * Russian - Native
-
-### Code example:
-> try:
->    for root,dirs, files in os.walk(path_dir):
->      for file in files:
->        if file.endswith('.xlsx'):
->          workbook = load_workbook(file)
->          replace_text_in_excel(workbook, to_find, replace)
->          workbook.save(path_dir)
-> except FileNotFoundError as e:
->    print(f"Error: Could not open the Excel file. {e}")
