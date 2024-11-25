@@ -16,6 +16,11 @@ Now I work as a layout designer for advertising letters, and I actively continue
 * Python3 (pandas, scikit learn)
 * Figma, Photoshop
 
+### Languages:
+* English - Uppen intermediate (B2)
+* German - Basics (A1)
+* Russian - Native
+
 ### Code example:
 '''
  try:
@@ -28,4 +33,3 @@ Now I work as a layout designer for advertising letters, and I actively continue
  except FileNotFoundError as e:
     print(f"Error: Could not open the Excel file. {e}")
 '''
-
